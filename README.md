@@ -48,5 +48,5 @@ The goal was to create a secure and segmented home lab environment where persona
  - Proxmox/VM subnet isolated from personal device network.
 
 ## References
- - pfSense Documentation (https://docs.netgate.com/pfsense/en/latest/)
- - Proxmox Documentation (https://pve.proxmox.com/pve-docs/pve-admin-guide.html)
+ - [pfSense Documentation](https://docs.netgate.com/pfsense/en/latest/)
+ - [Proxmox Documentation](https://pve.proxmox.com/pve-docs/pve-admin-guide.html)
