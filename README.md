@@ -23,8 +23,8 @@ The goal was to create a secure and segmented home lab environment where persona
 
 ## Technology Used
  - [pfSense](https://www.pfsense.org/)
- - Protectli (https://protectli.com/)
- - Proxmox VE (https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)
+ - [Protectli](https://protectli.com/)
+ - [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)
  - Windows Server VMs
  - Linux Server VMs
  - DHCP, VLANs, and Subnetting
