@@ -4,9 +4,9 @@
 This project demonstrates **network segementation and virtualization** using a pfSense firewall deployed on a Protecli device.
 The goal was to create a secure and segmented home lab environment where personal devices, virtualization infrastructure, and Windows Server VMs operate on seperate VLANS and subnets.
 
-## Architecture
+## Network Diagram
 
-"Diagram would go here"
+![Network Diagram]
 
 ### Parts
  - AT&T Modem
