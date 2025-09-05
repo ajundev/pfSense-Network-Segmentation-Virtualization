@@ -6,7 +6,7 @@ The goal was to create a secure and segmented home lab environment where persona
 
 ## Network Diagram
 
-![Network Diagram](./Diagram/networkDiagram.png)
+![Network Diagram](./Diagram/)
 
 ### Parts
  - AT&T Modem
