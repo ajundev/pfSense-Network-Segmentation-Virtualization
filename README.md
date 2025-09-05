@@ -22,7 +22,7 @@ The goal was to create a secure and segmented home lab environment where persona
  - Tagged Proxmox VM interfaces with VLAN IDs for proper segmentation.
 
 ## Technology Used
- - pfSense (https://www.pfsense.org/)
+ - [pfSense](https://www.pfsense.org/)
  - Protectli (https://protectli.com/)
  - Proxmox VE (https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)
  - Windows Server VMs
